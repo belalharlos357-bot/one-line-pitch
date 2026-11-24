@@ -4,7 +4,11 @@
 [![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/belalharlos357-bot/one-line-pitch/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 [![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/belalharlos357-bot/one-line-pitch/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-One-line pitch: describe the app you want in plain words, an AI agent builds it while you watch.
+One-line pitch: describe the app you want in plain words, an AI agent builds it while you watch. (189 characters, limit 240.) Top three take $2/$2/$1.
+
+## Why this line
+
+Speaks to a non-coder: "plain words", "while you watch", "free to try" — removes every fear (no coding, no cost, no black box). Truthful: entry is free; bounties pay cash prizes to the winner. "The prize is yours" gives the friend a reason to care. Closer "You bring the idea; it brings the code" is a clean, memorable split of the deal.
 
 ## Run it
 
